@@ -1,0 +1,26 @@
+{
+  "name": "bm2",
+  "version": "1.0.0",
+  "description": "Budget Me - React",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"No test specified\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VonSteck/bm2.git"
+  },
+  "keywords": [
+    "Budget",
+    "react",
+    "money",
+    "debt",
+    "payoff"
+  ],
+  "author": "WebSteck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VonSteck/bm2/issues"
+  },
+  "homepage": "https://github.com/VonSteck/bm2#readme"
+}
